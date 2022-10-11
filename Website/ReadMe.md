@@ -1,1 +1,1 @@
-# I have created this Phone shopping website usinh HTML, CSS, JavaScript
+# I have created this Phone shopping website using HTML, CSS, JavaScript
